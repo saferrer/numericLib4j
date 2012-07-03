@@ -25,6 +25,7 @@ public class Bisection {
 	private static final String METHOD_NAME = "Bisection Method";
 
 	/**
+	 * @param f Function
 	 * @param a left value
 	 * @param b right value
 	 * @param error tolerated error level
