@@ -10,7 +10,7 @@ import ar.edu.austral.analisis4.functions.OneVariableFunction;
  * <p>In mathematics, a spline is a sufficiently smooth polynomial function that is piecewise-defined, 
  * and possesses a high degree of smoothness at the places where the polynomial pieces connect 
  * (which are known as knots). The cubic spline is one of the most commons (polynomial of order 3) </p>
- * <img src="../../resources/cubicSpline.png" alt=""/>
+ * <img src="CubicSpline.jpeg"/>
  */
 
 public class CubicSpline{

@@ -17,8 +17,7 @@ import ar.edu.austral.analisis4.functions.OneVariableFunction;
  * the f must have at least one root in the interval (a, b).
  * </p>
  * <br>
- * <img alt="Bisection"  height="412"  width="480"  
- * src="..\resources\BisectionMethod.png" >
+ * <img alt="Bisection" src="BisectionMethod.png" >
  */
 public class Bisection {
 

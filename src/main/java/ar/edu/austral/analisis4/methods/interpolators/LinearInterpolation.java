@@ -13,14 +13,14 @@ import ar.edu.austral.analisis4.functions.OneVariableFunction;
  * For a value x in the interval , the value y along the straight line is given from the equation</p>
  * <br>
  * 
- * <img src="../../resources/LinearInterpolation1.png"/>
+ * <img src="LinearInterpolation1.png"/>
  *
  * <p>which can be derived geometrically from the figure on the right. 
  * It is a special case of polynomial interpolation with n = 1.
  * Solving this equation for y, which is the unknown value at x, gives</p>
  * <br>
  *
- * <img src="../../resources/LinearInterpolation2.png"/>
+ * <img src="LinearInterpolation2.png"/>
  */
 public class LinearInterpolation {
 

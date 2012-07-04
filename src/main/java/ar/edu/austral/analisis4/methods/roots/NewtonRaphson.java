@@ -16,11 +16,11 @@ import ar.edu.austral.analisis4.functions.OneVariableFunction;
  * we begin with a first guess x0 for a root of the function f. 
  * Provided the function is reasonably well-behaved a better approximation x1 is
  * </p>
- * <img src="..\resources\NewtonRapshonMethod1.png" > <br>
+ * <img src="NewtonRapshonMethod1.png" > <br>
  * <p>
  * Geometrically, (x1, 0) is the intersection with the x-axis of a line tangent to f at (x0, f (x0)). The process is repeated as
  * </p>
- * <img alt="NewtonRaphson Formule" src="..\resources\NewtonRapshonMethod2.png" > <br>
+ * <img src="NewtonRapshonMethod2.png" > <br>
  */
 public class NewtonRaphson{
 	

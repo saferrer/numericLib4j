@@ -12,13 +12,13 @@ import ar.edu.austral.analisis4.functions.TwoVariableFunction;
  * 
  * <p>Let an initial value problem be specified as follows.<p>
  * 
- * <img src="../../resources/RungeKutta1.png"/>
+ * <img src="RungeKutta1.png"/>
  * <br>
  * <p>In words, what this means is that the rate at which y changes is a function of y itself and of t (time). 
  * At the start, time is  and y is . In the equation, y may be a scalar or a vector. 
  * The RK4 method for this problem is given by the following equations: </p>
  * 
- * <img src="../../resources/RungeKutta2.png"/>
+ * <img src="RungeKutta2.png"/>
  * <br>
  */
 
