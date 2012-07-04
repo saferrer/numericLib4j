@@ -1,7 +1,7 @@
 package ar.edu.austral.analisis4.functions;
 
 /**
- * This class represents a function with one variable
+ * This class represents a function with two variable (differential equations for example).
  * 
  * <b>Example</b>
  * <pre>
