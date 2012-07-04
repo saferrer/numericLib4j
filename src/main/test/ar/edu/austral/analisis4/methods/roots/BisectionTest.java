@@ -30,11 +30,11 @@ public class BisectionTest {
 		super();
 		this.function = function;
 		this.functionString = functionString;
-		this.expected = expected;
 		this.a = a;
 		this.b = b;
 		this.error = error;
 		this.iterations = iterations;
+		this.expected = expected;
 	}
 
 	@Parameters
