@@ -1,6 +1,6 @@
 #numericLib4j - Library of numerical methods
 
-This is a library for Java where you can find different numeric methods to use out of the box. It was college project wich I decided to share so that other users can also add new things.
+This is a Java Library where you can find different numeric methods to use out of the box. It was college project wich I decided to share so that other users can also add new things.
 
 ###Methods you can find
 * Bisection (roots)
@@ -14,6 +14,14 @@ This is a library for Java where you can find different numeric methods to use o
 * Cubic Spline
 * Newton Interpolation
 * Linear Interpolation
+
+###Tests
+This library comes with a bunch of Test that you can run and see to know how to use the different methods and interpolators.
+
+###Technology
+* Java 7
+* Maven 3
+* GIT
 
 ###Credits
 * Student: Santiago Ferrer Deheza
